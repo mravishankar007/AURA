@@ -1,1 +1,195 @@
-
+[
+    {
+        "timestamp": "2025-12-09 05:26:49.127699",
+        "events": [
+            "Crunch",
+            "Chewing, mastication",
+            "Pig"
+        ],
+        "emotion": "fearful",
+        "transcript_summary": " ─️...",
+        "notes": "this was a crunch, chewing"
+    },
+    {
+        "timestamp": "2025-12-09 05:28:59.875005",
+        "events": [
+            "Silence",
+            "Whoosh, swoosh, swish",
+            "Sigh"
+        ],
+        "emotion": "fearful",
+        "transcript_summary": "No speech detected.",
+        "notes": "silence"
+    },
+    {
+        "timestamp": "2025-12-09 05:31:01.616753",
+        "events": [
+            "Silence",
+            "Whoosh, swoosh, swish",
+            "Sigh"
+        ],
+        "emotion": "fearful",
+        "transcript_summary": "No speech detected.",
+        "notes": "silence"
+    },
+    {
+        "timestamp": "2025-12-09 05:42:46.071968",
+        "events": [
+            "Speech",
+            "Sigh",
+            "Narration, monologue"
+        ],
+        "emotion": "fearful",
+        "transcript_summary": " Hello, champ. Hello. Hello.  Mike, please. Hello. Hello.  Do you want to talk to me?...",
+        "notes": ""
+    },
+    {
+        "timestamp": "2025-12-09 05:47:55.254653",
+        "events": [
+            "Speech",
+            "Narration, monologue",
+            "Male speech, man speaking"
+        ],
+        "emotion": "fearful",
+        "transcript_summary": " Hello? Hello? Hello, hello?  Wisdom? Hello? Hello, my chick, my chick....",
+        "notes": ""
+    },
+    {
+        "timestamp": "2025-12-09 06:06:18.637235",
+        "events": [
+            "Church bell",
+            "Bell",
+            "Clang"
+        ],
+        "emotion": "fearful",
+        "transcript_summary": "No speech detected.",
+        "notes": "CHURCH BELL SOUND"
+    },
+    {
+        "timestamp": "2025-12-09 11:27:19.205064",
+        "events": [
+            "Speech",
+            "Male speech, man speaking",
+            "Narration, monologue"
+        ],
+        "emotion": "fearful",
+        "transcript_summary": " Hello, good morning, I want to show something, this is the mic, by the audio learning....",
+        "notes": ""
+    },
+    {
+        "id": "c120b33d-b4a6-4a42-8833-1fce5d11e54d",
+        "timestamp": "2025-12-09 13:33:43.572949",
+        "events": [],
+        "emotion": "User-Verified",
+        "transcript_summary": "आला पपादे जगिंट ने दिगँ बिद नाद जाल हा",
+        "full_transcript_data": [
+            {
+                "start": 0.0,
+                "end": 2.0,
+                "text": "आला पपादे जगिंट ने",
+                "speaker": "Speaker A",
+                "confidence": 0.86,
+                "is_urgent": false
+            },
+            {
+                "start": 4.0,
+                "end": 5.0,
+                "text": "दिगँ",
+                "speaker": "Speaker B",
+                "confidence": 0.86,
+                "is_urgent": false
+            },
+            {
+                "start": 5.0,
+                "end": 6.14,
+                "text": "बिद नाद",
+                "speaker": "Speaker B",
+                "confidence": 0.94,
+                "is_urgent": false
+            },
+            {
+                "start": 6.16,
+                "end": 7.14,
+                "text": "जाल हा",
+                "speaker": "Speaker B",
+                "confidence": 0.9,
+                "is_urgent": false
+            }
+        ],
+        "user_notes": ""
+    },
+    {
+        "id": "53f1c122-2d34-442c-bbee-e5e5b8df2f0a",
+        "timestamp": "2025-12-09 16:06:37.800909",
+        "events": [],
+        "emotion": "User-Verified",
+        "transcript_summary": "और? रूपेस, क्या कर रहा घincluding вперेख? 좋아하गा seine alsa रूपेस, क्या कर रहा घ",
+        "full_transcript_data": [
+            {
+                "start": 0.0,
+                "end": 1.26,
+                "text": "और?",
+                "speaker": "Speaker A",
+                "confidence": -1.92,
+                "is_urgent": false,
+                "tone": "Neutral"
+            },
+            {
+                "start": 1.26,
+                "end": 3.56,
+                "text": "रूपेस, क्या कर रहा घincluding вперेख?",
+                "speaker": "Speaker A",
+                "confidence": -1.92,
+                "is_urgent": false,
+                "tone": "Neutral"
+            },
+            {
+                "start": 3.56,
+                "end": 5.04,
+                "text": "좋아하गा seine alsa",
+                "speaker": "Speaker A",
+                "confidence": -1.92,
+                "is_urgent": false,
+                "tone": "Neutral"
+            },
+            {
+                "start": 5.04,
+                "end": 23.02,
+                "text": "रूपेस, क्या कर रहा घ",
+                "speaker": "Speaker A",
+                "confidence": -1.92,
+                "is_urgent": false,
+                "tone": "Neutral"
+            }
+        ],
+        "user_notes": "रूपेस, क्या कर रहा,  रूपेस, क्या कर रहा "
+    },
+    {
+        "id": "3c7b5811-d883-4efb-bdb6-94b24d93b3b5",
+        "timestamp": "2025-12-09 16:20:56.459681",
+        "events": [],
+        "emotion": "User-Verified",
+        "transcript_summary": "मैं रद संकर मिश्रा आपसे देख और सिएज में अर्डिप अर्डिप रोग अंबरने करता हूँ और मेरे सापाथी रूपेज भाई उस कहना जाते हैं आपसे जै",
+        "full_transcript_data": [
+            {
+                "start": 0.0,
+                "end": 12.0,
+                "text": "मैं रद संकर मिश्रा आपसे देख और सिएज में अर्डिप अर्डिप रोग अंबरने करता हूँ और मेरे सापाथी रूपेज भाई उस कहना जाते हैं आपसे",
+                "speaker": "Speaker A",
+                "confidence": -0.44,
+                "is_urgent": false,
+                "tone": "Neutral"
+            },
+            {
+                "start": 12.0,
+                "end": 14.0,
+                "text": "जै",
+                "speaker": "Speaker A",
+                "confidence": -0.44,
+                "is_urgent": false,
+                "tone": "Neutral"
+            }
+        ],
+        "user_notes":""
+    }
+]
