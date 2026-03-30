@@ -1,0 +1,27 @@
+# requirements.txt
+# Auto-generated placeholder
+torch
+torchaudio
+numpy
+librosa
+noisereduce
+faster-whisper
+transformers
+networkx
+streamlit>=1.39.0
+plotly
+pyvis
+scipy
+soundfile
+sentencepiece
+accelerate
+datasets
+pydub
+pandas
+textblob
+requests
+streamlit-lottie
+
+# Speaker Diarization Dependencies
+speechbrain
+scikit-learn
