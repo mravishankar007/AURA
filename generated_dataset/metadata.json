@@ -1,1 +1,82 @@
-
+[
+  {
+    "id": 0,
+    "audio_path": "sample_0.wav",
+    "language": "Tamil",
+    "event_context": "Airport",
+    "question": "Analyze audio",
+    "answer": "General audio scene."
+  },
+  {
+    "id": 1,
+    "audio_path": "sample_1.wav",
+    "language": "Tamil",
+    "event_context": "Airport",
+    "question": "Analyze audio",
+    "answer": "General audio scene."
+  },
+  {
+    "id": 2,
+    "audio_path": "sample_2.wav",
+    "language": "Hindi",
+    "event_context": "Traffic",
+    "question": "Analyze audio",
+    "answer": "General audio scene."
+  },
+  {
+    "id": 3,
+    "audio_path": "sample_3.wav",
+    "language": "Mandarin",
+    "event_context": "Traffic",
+    "question": "Describe the environment and the speaker.",
+    "answer": "Loud honking and engine noises suggest a busy highway. The speaker is speaking Mandarin, likely stuck in traffic in a Chinese-speaking region."
+  },
+  {
+    "id": 4,
+    "audio_path": "sample_4.wav",
+    "language": "Tamil",
+    "event_context": "Traffic",
+    "question": "Analyze audio",
+    "answer": "General audio scene."
+  },
+  {
+    "id": 5,
+    "audio_path": "sample_5.wav",
+    "language": "Tamil",
+    "event_context": "Airport",
+    "question": "Analyze audio",
+    "answer": "General audio scene."
+  },
+  {
+    "id": 6,
+    "audio_path": "sample_6.wav",
+    "language": "Tamil",
+    "event_context": "Traffic",
+    "question": "Analyze audio",
+    "answer": "General audio scene."
+  },
+  {
+    "id": 7,
+    "audio_path": "sample_7.wav",
+    "language": "Mandarin",
+    "event_context": "Traffic",
+    "question": "Describe the environment and the speaker.",
+    "answer": "Loud honking and engine noises suggest a busy highway. The speaker is speaking Mandarin, likely stuck in traffic in a Chinese-speaking region."
+  },
+  {
+    "id": 8,
+    "audio_path": "sample_8.wav",
+    "language": "Hindi",
+    "event_context": "Traffic",
+    "question": "Analyze audio",
+    "answer": "General audio scene."
+  },
+  {
+    "id": 9,
+    "audio_path": "sample_9.wav",
+    "language": "Hindi",
+    "event_context": "Traffic",
+    "question": "Analyze audio",
+    "answer": "General audio scene."
+  }
+]
